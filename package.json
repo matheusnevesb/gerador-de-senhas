@@ -20,5 +20,14 @@
     "@typescript-eslint/parser": "^5.42.1",
     "eslint": "^8.27.0",
     "eslint-plugin-react": "^7.31.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusnevesb/gerador-de-senhas.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/matheusnevesb/gerador-de-senhas/issues"
+  },
+  "homepage": "https://github.com/matheusnevesb/gerador-de-senhas#readme"
 }
